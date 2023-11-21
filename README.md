@@ -20,8 +20,8 @@ This is a small project as a QR code container. It is a small project that I hav
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-swjWJE_5zQ)
-- Live Site URL: [Add live site URL here](https://qr-code-component.sarfarazunar.repl.co/)
+- Solution URL: [Visit Solution Page](https://www.frontendmentor.io/solutions/qr-code-component-swjWJE_5zQ)
+- Live Site URL: [Visit live page](https://qr-code-component.sarfarazunar.repl.co/)
 
 ### Built with
 
